@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.numberlist.NumbersListStreamTest" time="0.211" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\ari_b\eclipse-workspace\NumbersList\target\test-classes;C:\Users\ari_b\eclipse-workspace\NumbersList\target\classes;C:\Users\ari_b\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ari_b\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_291\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\ari_b\AppData\Local\Temp\surefire5084384675204042173\surefirebooter5192985798011783810.jar C:\Users\ari_b\AppData\Local\Temp\surefire5084384675204042173 2021-10-20T17-15-20_197-jvmRun1 surefire9164497677350258377tmp surefire_09035800646710178539tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\ari_b\eclipse-workspace\NumbersList\target\test-classes;C:\Users\ari_b\eclipse-workspace\NumbersList\target\classes;C:\Users\ari_b\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ari_b\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ari_b"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jdk1.8.0_291\jre"/>
+    <property name="basedir" value="C:\Users\ari_b\eclipse-workspace\NumbersList"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\ari_b\AppData\Local\Temp\surefire5084384675204042173\surefirebooter5192985798011783810.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jdk1.8.0_291\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_291\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_291\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_291\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_291\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_291\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_291\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_291\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="java.runtime.version" value="1.8.0_291-b10"/>
+    <property name="user.name" value="aritra"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_291\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="localRepository" value="C:\Users\ari_b\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ari_b\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_291"/>
+    <property name="user.dir" value="C:\Users\ari_b\eclipse-workspace\NumbersList"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_291\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/ari_b/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/bin/server;C:/Users/ari_b/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Users\ari_b\Anaconda3\Scripts;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Git LFS;C:\Program Files\Git\cmd;C:\Program Files (x86)\Java\jdk1.8.0_291\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Microsoft VS Code\bin;C:\Users\ari_b\AppData\Local\GitHubDesktop\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ari_b\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\ari_b\AppData\Local\Programs\Python\Python38\;C:\Users\ari_b\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\ari_b\AppData\Local\Programs\Python\Python39\;C:\Users\ari_b\AppData\Local\Microsoft\WindowsApps;C:\Program Files\gretl;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\GitHub CLI\;C:\Program Files (x86)\Java\jdk1.8.0_291\bin;;C:\WINDOWS\system32;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.291-b10"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_291\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="afterSortingElementsShouldReturnSortedList" classname="com.numberlist.NumbersListStreamTest" time="0.133"/>
+</testsuite>
